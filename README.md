@@ -6,5 +6,5 @@
 - [Choreography Parallel](./choreography-parallel)
 - [Choreography Deno Queue](./choreography-deno-queue)
 - [Choreography Deno KV](./choreography-deno-kv)
-- [Choreography Deno Fresh](./choreography-deno-fresh)
+- [Choreography Deno Fresh](./saga-fresh)
 
